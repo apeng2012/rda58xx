@@ -32,7 +32,7 @@ RT-Thread online packages
 ## 4、注意事项
 
 - rda5820分24pin和20pin，目前只在24pin芯片测试过。
-- rda5820控制端口采样I2c，SPI接口没有实现。
+- rda5820控制端口采用I2c，SPI接口没有实现。
 - rda5820有多种功能，目前只实现 FM 接收。
 
 ## 5、联系方式 & 感谢
