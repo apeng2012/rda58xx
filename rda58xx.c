@@ -10,6 +10,7 @@
 #include <rtthread.h>
 #include <rtdevice.h>
 #include <string.h>
+#include <stdlib.h>
 
 #define DBG_ENABLE
 #define DBG_SECTION_NAME "rda58xx"
